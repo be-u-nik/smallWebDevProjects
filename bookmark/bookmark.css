@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.bg-container{
+    background-color: #2d3a8c;
+    height: 100vh;
+    color: white;
+}
+.head-head{
+    font-size: 30px;
+}
+
+.bookmark{
+    background-color: white;
+    border-radius: 15px 15px 0px 0px;
+    color: black;
+}
+.list-item{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+/*    list-style: none;*/
+}
+.bookmark-form-head{
+    font-size: 20px;
+}
+.form-container{
+    border-radius: 15px;
+}
+.bookmark-head{
+    font-size: 18px;
+}
