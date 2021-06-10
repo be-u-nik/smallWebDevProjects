@@ -50,7 +50,8 @@ function resetQuoteInput() {
 function checkQuote() {
     if (quoteInput.value === quoteDisplay.textContent) {
         clearInterval(intervalId);
-        result.textContent = "You took " + timeCount + " seconds";
+        let charactersPerSec = Math.floor((quoteDisplay.textContent.length)/timeCount);
+        result.textContent = `You took ${timeCount} seconds which means you typed a minimum of ${charactersPerSec} characters per second`;
     } else {
         result.textContent = "The sentence you typed is incorrect";
     }
