@@ -23,14 +23,14 @@ body{
 }
 .production-card-1 {
     background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
-    height: 50vh;
+    height: 250px;
     background-size: cover;
     color: white;
 }
 
 .production-card-2 {
     background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
-    height: 50vh;
+    height: 250px;
     background-size: cover;
     color: white;
 }
