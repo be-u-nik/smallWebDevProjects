@@ -1,7 +1,7 @@
 let bookmarks = [{
     bookmarkId: "bookmark1",
-    name: "Learning Portal",
-    url: "https://learning.ccbp.in/",
+    name: "My netflix clone",
+    url: "https://be-u-nik.github.io/app-clones/",
 }, ];
 
 let bookmarkForm = document.getElementById("bookmarkForm");
