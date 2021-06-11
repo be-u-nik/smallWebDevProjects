@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+*{
+    margin: 0;
+}
+body{
+    overflow-x: hidden;
+}
+.navbar-img {
+    width: 120px;
+    object-fit: contain;
+}
+.service-heading {
+    font-size: 35px;
+}
+.services-container{
+    background-image: linear-gradient(90deg, rgb(160, 222, 219),rgb(3, 165, 209));
+}
+.services-head{
+    color: white;
+}
+.services-card{
+    background-color: #fff;
+}
+.production-card-1 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+    height: 50vh;
+    background-size: cover;
+    color: white;
+}
+
+.production-card-2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+    height: 50vh;
+    background-size: cover;
+    color: white;
+}
+
+.product-details-container {
+    color: black;
+}
+
+.more-products {
+    color: #ff9f00;
+}
+.offer-container {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+    /* background-size: cover; */
+}
+
+.order-heading {
+    font-size: 40px;
+    color: #ad2167;
+}
+
+.order-para {
+    font-size: 20px;
+    color: white;
+}
+.explore-heading {
+    font-size: 30px;
+}
+
+.deal-name {
+    font-size: 15px;
+}
+
+.explore-container {
+    background-color: #f5f7fa;
+    ;
+}
+.contact-container {
+    background-color: #f5f7fa;
+}
+.footer-container {
+    background-color: #19232d;
+    color: #959ead;
+}
+
+.logo {
+    width: 156px;
+    object-fit: contain;
+}
+
+.icon {
+    font-size: 20px;
+    padding: 10px;
+    color: #959ead;
+    background-color: #5a7184;
+    border-radius: 50%;
+}
+
+.hr-line {
+    background-color: #5a7184;
+}
+
+.contact-head {
+    font-size: 20px;
+}
